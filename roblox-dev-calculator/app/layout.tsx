@@ -30,7 +30,7 @@ export const metadata = {
   openGraph: {
     title: 'Roblox Dev Calculator - DevEx & Earnings Tools',
     description: 'Calculate Roblox DevEx earnings, USD to Robux conversions, marketplace tax, and game revenue. Built by a real Roblox developer.',
-    url: 'https://your-actual-domain.com',
+    url: 'https://robloxdevcalculator.com',
     siteName: 'Roblox Dev Calculator by RiseBit',
     images: [
       {
